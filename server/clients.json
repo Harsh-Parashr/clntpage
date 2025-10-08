@@ -1,0 +1,162 @@
+[
+  {
+    "id": "JR-202401",
+    "name": "Jame Rodriguez",
+    "email": "james.rodriguez@example.com",
+    "phone": "(555) 123-4567",
+    "status": "Active",
+    "lastSession": "June 15, 2024",
+    "nextAppointment": "June 22, 2024",
+    "totalSessions": 12,
+    "dob": "1985-01-15",
+    "gender": "Male",
+    "address": "123 Main St, Anytown, USA 12345",
+    "insurance": "Blue Cross Blue Shield (PPO)",
+    "paymentStatus": "Paid up to date",
+    "frequency": "Weekly",
+    "treatmentGoals": [
+      {
+        "title": "Reduce Anxiety",
+        "progress": 45,
+        "target": "Reduce GAD-7 score from 15 to 5 within 3 months."
+      },
+      {
+        "title": "Improve Communication Skills",
+        "progress": 70,
+        "target": "Practice \"I\" statements in sessions and at home."
+      },
+      {
+        "title": "Develop Coping Mechanisms",
+        "progress": 20,
+        "target": "Identify and use 3 new coping skills for stress."
+      }
+    ],
+    "sessionHistory": [
+      {
+        "date": "June 15, 2024",
+        "time": "10:00 AM",
+        "type": "Individual",
+        "duration": "50 min",
+        "status": "Completed",
+        "notes": "Discussed progress on anxiety coping mechanisms."
+      },
+      {
+        "date": "June 8, 2024",
+        "time": "10:00 AM",
+        "type": "Individual",
+        "duration": "50 min",
+        "status": "Completed",
+        "notes": "Follow-up on communication exercises."
+      },
+      {
+        "date": "June 1, 2024",
+        "time": "10:00 AM",
+        "type": "Individual",
+        "duration": "50 min",
+        "status": "Canceled",
+        "notes": "Client canceled due to work conflict."
+      },
+      {
+        "date": "May 25, 2024",
+        "time": "10:00 AM",
+        "type": "Individual",
+        "duration": "50 min",
+        "status": "Completed",
+        "notes": "Initial intake and goal setting."
+      }
+    ],
+    "notes": [
+      {
+        "date": "June 15, 2024 - Dr. Amelia Harper",
+        "content": "Client reported significant improvement in using mindfulness techniques to manage panic attacks. We explored the connection between his work stress and anxiety triggers. He was receptive to trying a thought-challenging worksheet for homework."
+      },
+      {
+        "date": "June 8, 2024 - Dr. Amelia Harper",
+        "content": "Session focused on family history and its impact on current relationships. James showed difficulty expressing emotions related to his upbringing but was engaged and willing to explore further in future sessions. Assigned a journaling prompt about his relationship with his father."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Garci",
+    "email": "maria.garcia@example.com",
+    "phone": "(555) 987-6543",
+    "status": "Upcoming",
+    "lastSession": "June 1, 2024",
+    "nextAppointment": "June 25, 2024",
+    "totalSessions": 5,
+    "dob": "1990-02-20",
+    "gender": "Female",
+    "address": "456 Oak Ave, Othertown, USA 54321",
+    "sessionHistory": [],
+    "notes": []
+  },
+  {
+    "id": 3,
+    "name": "Olivia Chen",
+    "email": "olivia.chen@example.com",
+    "phone": "(555) 345-6789",
+    "status": "Overdue",
+    "lastSession": "April 10, 2024",
+    "nextAppointment": "None Scheduled",
+    "totalSessions": 20,
+    "dob": "1988-07-30",
+    "gender": "Female",
+    "address": "789 Pine Ln, Sometown, USA 67890",
+    "sessionHistory": [],
+    "notes": []
+  },
+  {
+    "id": 4,
+    "name": "Michael Taylor",
+    "email": "michael.taylor@example.com",
+    "phone": "(555) 234-5678",
+    "status": "Inactive",
+    "lastSession": "February 5, 2024",
+    "nextAppointment": "None",
+    "totalSessions": 8,
+    "dob": "1992-11-05",
+    "gender": "Male",
+    "address": "101 Maple Dr, Yourtown, USA 13579",
+    "sessionHistory": [],
+    "notes": []
+  },
+  {
+    "id": "CL-1759747739479",
+    "name": "Harsh",
+    "email": "harsh.parashar.work@gmail.com",
+    "phone": "",
+    "status": "Active",
+    "lastSession": "",
+    "nextAppointment": "",
+    "totalSessions": 0,
+    "dob": "",
+    "gender": "Male",
+    "address": "",
+    "insurance": "",
+    "paymentStatus": "",
+    "frequency": "",
+    "treatmentGoals": [],
+    "sessionHistory": [],
+    "notes": []
+  },
+  {
+    "id": "CL-1759747784760",
+    "name": "Harsh",
+    "email": "h4harshparahar@gmail.com",
+    "phone": "8816062034",
+    "status": "Active",
+    "lastSession": "",
+    "nextAppointment": "",
+    "totalSessions": 0,
+    "dob": "2019-01-01",
+    "gender": "Male",
+    "address": "H No 232",
+    "insurance": "",
+    "paymentStatus": "",
+    "frequency": "",
+    "treatmentGoals": [],
+    "sessionHistory": [],
+    "notes": []
+  }
+]
